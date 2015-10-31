@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /blocks/
+Disallow: /config/
+Disallow: /modules/
+Disallow: /themes/
